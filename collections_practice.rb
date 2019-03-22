@@ -33,10 +33,10 @@ def kesha_maker(array)
   new_array = []
   
   array.each do |i|  i == array[2]i="$"
-  new_array << 
+  new_array << i 
   
   }
-end
+
     
 end
   
