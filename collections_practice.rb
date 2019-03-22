@@ -37,7 +37,7 @@ def kesha_maker(array)
   end
   new_array
   end
-  puts kesha_maker(array)
+  
   
   
   
