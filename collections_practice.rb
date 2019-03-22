@@ -32,7 +32,7 @@ def kesha_maker(array)
   
   new array = []
   
-  array.each do|a,b| if b== array[2] b.[="$"
+  array.each |a,b| if b== array[2] b.[="$"
   
   }
 end
