@@ -38,12 +38,12 @@ def kesha_maker(array)
   new_array
   end
   
-  # def find_a(array)
-  #   array.select do |i|
-  #     i.start_with?("a")
-  #   end
-  #   array
-  # end
+  def find_a(array)
+    array.select do |i|
+      i.start_with?("a")
+    end
+  
+  end
   
   def find_a(array)
   array.select do |string|
