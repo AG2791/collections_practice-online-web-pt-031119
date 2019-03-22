@@ -38,6 +38,11 @@ def kesha_maker(array)
   new_array
   end
   
+  def find_a(array)
+    array.find do |i|
+      i.start_with?("a")
+    end
+  end
   
   
   
