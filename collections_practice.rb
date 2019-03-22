@@ -44,6 +44,14 @@ def kesha_maker(array)
     end
   
  def sum_array(array)
+  total = 0
+  array.each do |i|
+    if i.is_a? Integer
+      sum += i
+    end
+  end
+  total
+end
    
    
   
