@@ -42,6 +42,7 @@ def kesha_maker(array)
     array.find do |i|
       i.start_with?("a")
     end
+    return array
   end
   
   
