@@ -43,7 +43,9 @@ def kesha_maker(array)
       i.start_with?("a")
     end
   
- 
+ def sum_array(array)
+   
+   
   
  
   
