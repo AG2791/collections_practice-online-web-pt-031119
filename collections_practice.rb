@@ -30,7 +30,9 @@ end
 
 def kesha_maker(array)
   
-  array.each {|i| if i== array[2] i="$"
+  new array = []
+  
+  array.each do|a,b| if b== array[2] b.[="$"
   
   }
 end
